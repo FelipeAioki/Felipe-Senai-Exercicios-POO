@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Segunda atividade\obj\Debug\netcoreapp3.1\Segunda atividade.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Segunda atividade\obj\Debug\netcoreapp3.1\Segunda atividade.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Segunda atividade\obj\Debug\netcoreapp3.1\Segunda atividade.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Segunda atividade\obj\Debug\netcoreapp3.1\Segunda atividade.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Segunda atividade\bin\Debug\netcoreapp3.1\Segunda atividade.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Segunda atividade\bin\Debug\netcoreapp3.1\Segunda atividade.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Segunda atividade\bin\Debug\netcoreapp3.1\Segunda atividade.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Segunda atividade\bin\Debug\netcoreapp3.1\Segunda atividade.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Segunda atividade\bin\Debug\netcoreapp3.1\Segunda atividade.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Segunda atividade\bin\Debug\netcoreapp3.1\Segunda atividade.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Segunda atividade\obj\Debug\netcoreapp3.1\Segunda atividade.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Segunda atividade\obj\Debug\netcoreapp3.1\Segunda atividade.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Segunda atividade\obj\Debug\netcoreapp3.1\Segunda atividade.genruntimeconfig.cache

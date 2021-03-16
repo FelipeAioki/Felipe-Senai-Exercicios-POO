@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\terceira\obj\Debug\netcoreapp3.1\terceira.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\terceira\obj\Debug\netcoreapp3.1\terceira.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\terceira\obj\Debug\netcoreapp3.1\terceira.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\terceira\obj\Debug\netcoreapp3.1\terceira.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\terceira\bin\Debug\netcoreapp3.1\terceira.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\terceira\bin\Debug\netcoreapp3.1\terceira.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\terceira\bin\Debug\netcoreapp3.1\terceira.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\terceira\bin\Debug\netcoreapp3.1\terceira.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\terceira\bin\Debug\netcoreapp3.1\terceira.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\terceira\bin\Debug\netcoreapp3.1\terceira.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\terceira\obj\Debug\netcoreapp3.1\terceira.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\terceira\obj\Debug\netcoreapp3.1\terceira.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\terceira\obj\Debug\netcoreapp3.1\terceira.genruntimeconfig.cache

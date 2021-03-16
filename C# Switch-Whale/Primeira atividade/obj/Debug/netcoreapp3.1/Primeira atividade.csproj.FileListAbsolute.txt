@@ -1,0 +1,4 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Primeira atividade\obj\Debug\netcoreapp3.1\Primeira atividade.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Primeira atividade\obj\Debug\netcoreapp3.1\Primeira atividade.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Primeira atividade\obj\Debug\netcoreapp3.1\Primeira atividade.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Atividades dia 13\Primeira atividade\obj\Debug\netcoreapp3.1\Primeira atividade.csproj.CoreCompileInputs.cache
