@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Aplicando MVC\bin\Debug\netcoreapp3.1\C Aplicando MVC.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Aplicando MVC\bin\Debug\netcoreapp3.1\C Aplicando MVC.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Aplicando MVC\bin\Debug\netcoreapp3.1\C Aplicando MVC.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Aplicando MVC\bin\Debug\netcoreapp3.1\C Aplicando MVC.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Aplicando MVC\bin\Debug\netcoreapp3.1\C Aplicando MVC.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Aplicando MVC\bin\Debug\netcoreapp3.1\C Aplicando MVC.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Aplicando MVC\obj\Debug\netcoreapp3.1\C Aplicando MVC.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Aplicando MVC\obj\Debug\netcoreapp3.1\C Aplicando MVC.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Aplicando MVC\obj\Debug\netcoreapp3.1\C Aplicando MVC.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Aplicando MVC\obj\Debug\netcoreapp3.1\C Aplicando MVC.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Aplicando MVC\obj\Debug\netcoreapp3.1\C Aplicando MVC.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Aplicando MVC\obj\Debug\netcoreapp3.1\C Aplicando MVC.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Aplicando MVC\obj\Debug\netcoreapp3.1\C Aplicando MVC.genruntimeconfig.cache

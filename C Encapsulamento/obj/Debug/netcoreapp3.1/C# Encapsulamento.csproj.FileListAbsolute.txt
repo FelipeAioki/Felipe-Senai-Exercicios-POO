@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Encapsulamento\obj\Debug\netcoreapp3.1\C# Encapsulamento.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Encapsulamento\obj\Debug\netcoreapp3.1\C# Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Encapsulamento\obj\Debug\netcoreapp3.1\C# Encapsulamento.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Encapsulamento\obj\Debug\netcoreapp3.1\C# Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Encapsulamento\bin\Debug\netcoreapp3.1\C# Encapsulamento.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Encapsulamento\bin\Debug\netcoreapp3.1\C# Encapsulamento.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Encapsulamento\bin\Debug\netcoreapp3.1\C# Encapsulamento.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Encapsulamento\bin\Debug\netcoreapp3.1\C# Encapsulamento.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Encapsulamento\bin\Debug\netcoreapp3.1\C# Encapsulamento.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Encapsulamento\bin\Debug\netcoreapp3.1\C# Encapsulamento.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Encapsulamento\obj\Debug\netcoreapp3.1\C# Encapsulamento.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Encapsulamento\obj\Debug\netcoreapp3.1\C# Encapsulamento.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Encapsulamento\obj\Debug\netcoreapp3.1\C# Encapsulamento.genruntimeconfig.cache

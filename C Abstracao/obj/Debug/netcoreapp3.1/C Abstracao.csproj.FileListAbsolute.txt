@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Abstracao\obj\Debug\netcoreapp3.1\C Abstracao.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Abstracao\obj\Debug\netcoreapp3.1\C Abstracao.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Abstracao\obj\Debug\netcoreapp3.1\C Abstracao.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Abstracao\obj\Debug\netcoreapp3.1\C Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Abstracao\bin\Debug\netcoreapp3.1\C Abstracao.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Abstracao\bin\Debug\netcoreapp3.1\C Abstracao.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Abstracao\bin\Debug\netcoreapp3.1\C Abstracao.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Abstracao\bin\Debug\netcoreapp3.1\C Abstracao.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Abstracao\bin\Debug\netcoreapp3.1\C Abstracao.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Abstracao\bin\Debug\netcoreapp3.1\C Abstracao.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Abstracao\obj\Debug\netcoreapp3.1\C Abstracao.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Abstracao\obj\Debug\netcoreapp3.1\C Abstracao.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Abstracao\obj\Debug\netcoreapp3.1\C Abstracao.genruntimeconfig.cache
