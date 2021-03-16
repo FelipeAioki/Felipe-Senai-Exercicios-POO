@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Listas\bin\Debug\netcoreapp3.1\C Listas.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Listas\bin\Debug\netcoreapp3.1\C Listas.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Listas\bin\Debug\netcoreapp3.1\C Listas.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Listas\bin\Debug\netcoreapp3.1\C Listas.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Listas\bin\Debug\netcoreapp3.1\C Listas.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Listas\bin\Debug\netcoreapp3.1\C Listas.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Listas\obj\Debug\netcoreapp3.1\C Listas.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Listas\obj\Debug\netcoreapp3.1\C Listas.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Listas\obj\Debug\netcoreapp3.1\C Listas.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Listas\obj\Debug\netcoreapp3.1\C Listas.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Listas\obj\Debug\netcoreapp3.1\C Listas.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Listas\obj\Debug\netcoreapp3.1\C Listas.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Listas\obj\Debug\netcoreapp3.1\C Listas.genruntimeconfig.cache

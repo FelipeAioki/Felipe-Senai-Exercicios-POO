@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Metodos Construtores\bin\Debug\netcoreapp3.1\C Metodos Construtores.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Metodos Construtores\bin\Debug\netcoreapp3.1\C Metodos Construtores.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Metodos Construtores\bin\Debug\netcoreapp3.1\C Metodos Construtores.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Metodos Construtores\bin\Debug\netcoreapp3.1\C Metodos Construtores.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Metodos Construtores\bin\Debug\netcoreapp3.1\C Metodos Construtores.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Metodos Construtores\bin\Debug\netcoreapp3.1\C Metodos Construtores.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Metodos Construtores\obj\Debug\netcoreapp3.1\C Metodos Construtores.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Metodos Construtores\obj\Debug\netcoreapp3.1\C Metodos Construtores.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Metodos Construtores\obj\Debug\netcoreapp3.1\C Metodos Construtores.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Metodos Construtores\obj\Debug\netcoreapp3.1\C Metodos Construtores.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Metodos Construtores\obj\Debug\netcoreapp3.1\C Metodos Construtores.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Metodos Construtores\obj\Debug\netcoreapp3.1\C Metodos Construtores.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Metodos Construtores\obj\Debug\netcoreapp3.1\C Metodos Construtores.genruntimeconfig.cache

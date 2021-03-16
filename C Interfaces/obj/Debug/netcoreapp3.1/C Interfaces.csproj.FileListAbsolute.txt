@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Interfaces\bin\Debug\netcoreapp3.1\C Interfaces.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Interfaces\bin\Debug\netcoreapp3.1\C Interfaces.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Interfaces\bin\Debug\netcoreapp3.1\C Interfaces.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Interfaces\bin\Debug\netcoreapp3.1\C Interfaces.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Interfaces\bin\Debug\netcoreapp3.1\C Interfaces.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Interfaces\bin\Debug\netcoreapp3.1\C Interfaces.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Interfaces\obj\Debug\netcoreapp3.1\C Interfaces.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Interfaces\obj\Debug\netcoreapp3.1\C Interfaces.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Interfaces\obj\Debug\netcoreapp3.1\C Interfaces.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Interfaces\obj\Debug\netcoreapp3.1\C Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Interfaces\obj\Debug\netcoreapp3.1\C Interfaces.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Interfaces\obj\Debug\netcoreapp3.1\C Interfaces.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Interfaces\obj\Debug\netcoreapp3.1\C Interfaces.genruntimeconfig.cache
