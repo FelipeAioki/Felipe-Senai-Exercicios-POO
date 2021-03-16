@@ -1,0 +1,4 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Posto de gasolina\obj\Debug\netcoreapp3.1\C# Posto de gasolina.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Posto de gasolina\obj\Debug\netcoreapp3.1\C# Posto de gasolina.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Posto de gasolina\obj\Debug\netcoreapp3.1\C# Posto de gasolina.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Posto de gasolina\obj\Debug\netcoreapp3.1\C# Posto de gasolina.csproj.CoreCompileInputs.cache

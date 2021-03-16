@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\switch\obj\Debug\netcoreapp3.1\switch.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\switch\obj\Debug\netcoreapp3.1\switch.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\switch\obj\Debug\netcoreapp3.1\switch.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\switch\obj\Debug\netcoreapp3.1\switch.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\switch\bin\Debug\netcoreapp3.1\switch.exe
+C:\Users\felip\OneDrive\Área de Trabalho\switch\bin\Debug\netcoreapp3.1\switch.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\switch\bin\Debug\netcoreapp3.1\switch.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\switch\bin\Debug\netcoreapp3.1\switch.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\switch\bin\Debug\netcoreapp3.1\switch.dll
+C:\Users\felip\OneDrive\Área de Trabalho\switch\bin\Debug\netcoreapp3.1\switch.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\switch\obj\Debug\netcoreapp3.1\switch.dll
+C:\Users\felip\OneDrive\Área de Trabalho\switch\obj\Debug\netcoreapp3.1\switch.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\switch\obj\Debug\netcoreapp3.1\switch.genruntimeconfig.cache
