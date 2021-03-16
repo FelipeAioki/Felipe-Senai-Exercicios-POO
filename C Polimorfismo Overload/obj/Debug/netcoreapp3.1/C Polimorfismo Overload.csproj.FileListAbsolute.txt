@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo Overload\bin\Debug\netcoreapp3.1\C Polimorfismo Overload.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo Overload\bin\Debug\netcoreapp3.1\C Polimorfismo Overload.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo Overload\bin\Debug\netcoreapp3.1\C Polimorfismo Overload.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo Overload\bin\Debug\netcoreapp3.1\C Polimorfismo Overload.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo Overload\bin\Debug\netcoreapp3.1\C Polimorfismo Overload.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo Overload\bin\Debug\netcoreapp3.1\C Polimorfismo Overload.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo Overload\obj\Debug\netcoreapp3.1\C Polimorfismo Overload.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo Overload\obj\Debug\netcoreapp3.1\C Polimorfismo Overload.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo Overload\obj\Debug\netcoreapp3.1\C Polimorfismo Overload.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo Overload\obj\Debug\netcoreapp3.1\C Polimorfismo Overload.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo Overload\obj\Debug\netcoreapp3.1\C Polimorfismo Overload.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo Overload\obj\Debug\netcoreapp3.1\C Polimorfismo Overload.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo Overload\obj\Debug\netcoreapp3.1\C Polimorfismo Overload.genruntimeconfig.cache

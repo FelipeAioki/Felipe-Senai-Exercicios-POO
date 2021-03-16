@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C POO static\bin\Debug\netcoreapp3.1\C POO static.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C POO static\bin\Debug\netcoreapp3.1\C POO static.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C POO static\bin\Debug\netcoreapp3.1\C POO static.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C POO static\bin\Debug\netcoreapp3.1\C POO static.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C POO static\bin\Debug\netcoreapp3.1\C POO static.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C POO static\bin\Debug\netcoreapp3.1\C POO static.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C POO static\obj\Debug\netcoreapp3.1\C POO static.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C POO static\obj\Debug\netcoreapp3.1\C POO static.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C POO static\obj\Debug\netcoreapp3.1\C POO static.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C POO static\obj\Debug\netcoreapp3.1\C POO static.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C POO static\obj\Debug\netcoreapp3.1\C POO static.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C POO static\obj\Debug\netcoreapp3.1\C POO static.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C POO static\obj\Debug\netcoreapp3.1\C POO static.genruntimeconfig.cache

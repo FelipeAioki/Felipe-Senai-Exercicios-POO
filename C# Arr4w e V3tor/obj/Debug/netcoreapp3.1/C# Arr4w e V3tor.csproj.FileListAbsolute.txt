@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Arr4w e V3tor\bin\Debug\netcoreapp3.1\C# Arr4w e V3tor.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Arr4w e V3tor\bin\Debug\netcoreapp3.1\C# Arr4w e V3tor.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Arr4w e V3tor\bin\Debug\netcoreapp3.1\C# Arr4w e V3tor.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Arr4w e V3tor\bin\Debug\netcoreapp3.1\C# Arr4w e V3tor.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Arr4w e V3tor\bin\Debug\netcoreapp3.1\C# Arr4w e V3tor.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Arr4w e V3tor\bin\Debug\netcoreapp3.1\C# Arr4w e V3tor.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Arr4w e V3tor\obj\Debug\netcoreapp3.1\C# Arr4w e V3tor.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Arr4w e V3tor\obj\Debug\netcoreapp3.1\C# Arr4w e V3tor.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Arr4w e V3tor\obj\Debug\netcoreapp3.1\C# Arr4w e V3tor.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Arr4w e V3tor\obj\Debug\netcoreapp3.1\C# Arr4w e V3tor.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Arr4w e V3tor\obj\Debug\netcoreapp3.1\C# Arr4w e V3tor.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Arr4w e V3tor\obj\Debug\netcoreapp3.1\C# Arr4w e V3tor.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# Arr4w e V3tor\obj\Debug\netcoreapp3.1\C# Arr4w e V3tor.genruntimeconfig.cache

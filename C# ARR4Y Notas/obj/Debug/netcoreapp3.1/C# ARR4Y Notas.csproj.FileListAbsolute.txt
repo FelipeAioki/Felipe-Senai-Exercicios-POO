@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# ARR4Y Notas\bin\Debug\netcoreapp3.1\C# ARR4Y Notas.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# ARR4Y Notas\bin\Debug\netcoreapp3.1\C# ARR4Y Notas.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# ARR4Y Notas\bin\Debug\netcoreapp3.1\C# ARR4Y Notas.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# ARR4Y Notas\bin\Debug\netcoreapp3.1\C# ARR4Y Notas.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# ARR4Y Notas\bin\Debug\netcoreapp3.1\C# ARR4Y Notas.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# ARR4Y Notas\bin\Debug\netcoreapp3.1\C# ARR4Y Notas.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# ARR4Y Notas\obj\Debug\netcoreapp3.1\C# ARR4Y Notas.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# ARR4Y Notas\obj\Debug\netcoreapp3.1\C# ARR4Y Notas.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# ARR4Y Notas\obj\Debug\netcoreapp3.1\C# ARR4Y Notas.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# ARR4Y Notas\obj\Debug\netcoreapp3.1\C# ARR4Y Notas.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# ARR4Y Notas\obj\Debug\netcoreapp3.1\C# ARR4Y Notas.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# ARR4Y Notas\obj\Debug\netcoreapp3.1\C# ARR4Y Notas.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C# ARR4Y Notas\obj\Debug\netcoreapp3.1\C# ARR4Y Notas.genruntimeconfig.cache
