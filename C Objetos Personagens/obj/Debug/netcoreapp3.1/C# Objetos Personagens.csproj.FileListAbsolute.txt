@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos Personagens\bin\Debug\netcoreapp3.1\C# Objetos Personagens.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos Personagens\bin\Debug\netcoreapp3.1\C# Objetos Personagens.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos Personagens\bin\Debug\netcoreapp3.1\C# Objetos Personagens.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos Personagens\bin\Debug\netcoreapp3.1\C# Objetos Personagens.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos Personagens\bin\Debug\netcoreapp3.1\C# Objetos Personagens.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos Personagens\bin\Debug\netcoreapp3.1\C# Objetos Personagens.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos Personagens\obj\Debug\netcoreapp3.1\C# Objetos Personagens.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos Personagens\obj\Debug\netcoreapp3.1\C# Objetos Personagens.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos Personagens\obj\Debug\netcoreapp3.1\C# Objetos Personagens.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos Personagens\obj\Debug\netcoreapp3.1\C# Objetos Personagens.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos Personagens\obj\Debug\netcoreapp3.1\C# Objetos Personagens.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos Personagens\obj\Debug\netcoreapp3.1\C# Objetos Personagens.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos Personagens\obj\Debug\netcoreapp3.1\C# Objetos Personagens.genruntimeconfig.cache

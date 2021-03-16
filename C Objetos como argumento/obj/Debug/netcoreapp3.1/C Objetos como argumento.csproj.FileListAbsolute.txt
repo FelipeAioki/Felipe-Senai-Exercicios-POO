@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos como argumento\bin\Debug\netcoreapp3.1\C Objetos como argumento.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos como argumento\bin\Debug\netcoreapp3.1\C Objetos como argumento.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos como argumento\bin\Debug\netcoreapp3.1\C Objetos como argumento.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos como argumento\bin\Debug\netcoreapp3.1\C Objetos como argumento.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos como argumento\bin\Debug\netcoreapp3.1\C Objetos como argumento.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos como argumento\bin\Debug\netcoreapp3.1\C Objetos como argumento.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos como argumento\obj\Debug\netcoreapp3.1\C Objetos como argumento.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos como argumento\obj\Debug\netcoreapp3.1\C Objetos como argumento.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos como argumento\obj\Debug\netcoreapp3.1\C Objetos como argumento.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos como argumento\obj\Debug\netcoreapp3.1\C Objetos como argumento.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos como argumento\obj\Debug\netcoreapp3.1\C Objetos como argumento.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos como argumento\obj\Debug\netcoreapp3.1\C Objetos como argumento.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Objetos como argumento\obj\Debug\netcoreapp3.1\C Objetos como argumento.genruntimeconfig.cache

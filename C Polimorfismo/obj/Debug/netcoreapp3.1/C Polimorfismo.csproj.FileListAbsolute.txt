@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo\bin\Debug\netcoreapp3.1\C Polimorfismo.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo\bin\Debug\netcoreapp3.1\C Polimorfismo.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo\bin\Debug\netcoreapp3.1\C Polimorfismo.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo\bin\Debug\netcoreapp3.1\C Polimorfismo.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo\bin\Debug\netcoreapp3.1\C Polimorfismo.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo\bin\Debug\netcoreapp3.1\C Polimorfismo.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo\obj\Debug\netcoreapp3.1\C Polimorfismo.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo\obj\Debug\netcoreapp3.1\C Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo\obj\Debug\netcoreapp3.1\C Polimorfismo.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo\obj\Debug\netcoreapp3.1\C Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo\obj\Debug\netcoreapp3.1\C Polimorfismo.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo\obj\Debug\netcoreapp3.1\C Polimorfismo.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Curso ADS\C Polimorfismo\obj\Debug\netcoreapp3.1\C Polimorfismo.genruntimeconfig.cache
